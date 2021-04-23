@@ -1,6 +1,6 @@
 # instagram home screen
 
-![](instagram-home-screen/img/Screenshot_instagram.png)
+![](img/Screenshot_instagram.png)
 
 
 
