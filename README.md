@@ -1,6 +1,6 @@
 # 					instagram home screen
 
-![](C:\Users\PC\Documents\DIO-Projeto1\img\Screenshot_instagram.png)
+![](instagram-home-screen\img\Screenshot_instagram.png)
 
 
 
