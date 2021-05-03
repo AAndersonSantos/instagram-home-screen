@@ -1,6 +1,8 @@
-# 					instagram home screen
+<h1 align="center"> Instagram Home Screen</h1>
 
-![](C:\Users\PC\Documents\DIO-Projeto1\img\Screenshot_instagram.png)
+
+
+![](img/instagram-gif.gif)
 
 
 
@@ -18,9 +20,16 @@
 
   ---
 
+## **💾Repository Clone**
+```
+git clone https://github.com/AAndersonSantos/instagram-home-screen.git
+```
+---
+
+
 ## 📝License
 
-See the [LICENSE](https://github.com/AAndersonSantos/instagram-home-screen/blob/main/LICENSE) for more information.
+ [MIT](https://github.com/AAndersonSantos/instagram-home-screen/blob/main/LICENSE) 
 
 
 
